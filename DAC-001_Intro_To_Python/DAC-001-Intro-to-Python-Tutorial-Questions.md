@@ -1,4 +1,4 @@
-Intro to Python Tutorial Questions TEST
+Intro to Python Tutorial Questions
 
 1. Create a new Jupyter notebook (.ipynb file).
 2. Save the notebook with the name of the topic (e.g., DAC-001-Intro-to-Python_Tutorial.ipynb) in the respective folder of the topic, in your repository in VSCode (My-DAC-Curriculum).
